@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋 I'm Omar Riahi</h1>
 
 <p align="center">
-  <strong>AI Engineering Student | Full-Stack Developer | Innovator</strong><br>
-  [cite_start]Passionate about AI, Software Development, and Real-Time Systems[cite: 1, 7, 9].
+  <strong>AI Engineering Student | Full-Stack Developer </strong><br>
+  Passionate about AI, Software Development, and Real-Time Systems .
 </p>
 
 ### 🛠 Skills & Technologies
