@@ -16,11 +16,13 @@
 ### 📜 Featured Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="pointer-events: none;"/>
-  <img src="https://img.shields.io/badge/NVIDIA-AI_Agents-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="pointer-events: none;"/>
-  <img src="https://img.shields.io/badge/NVIDIA-NLP_Transformers-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="pointer-events: none;"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="pointer-events: none;" />
+  <picture>
+    <img src="https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white"  />
+    <img src="https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"  />
+    <img src="https://img.shields.io/badge/NVIDIA-AI_Agents-76B900?style=for-the-badge&logo=nvidia&logoColor=white"  />
+    <img src="https://img.shields.io/badge/NVIDIA-NLP_Transformers-76B900?style=for-the-badge&logo=nvidia&logoColor=white"  />
+    <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"   />
+  </picture> 
 </div>
  
 
